@@ -94,7 +94,7 @@ Open your terminal and follow the instructions to run the bot.
 
 You can click this button to deploy to Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aahnik/run-py-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/plagxx/run-py-bot)
 
 For more details [read the guide](https://github.com/aahnik/run-py-bot/issues/18) about Heroku deployment.
 
